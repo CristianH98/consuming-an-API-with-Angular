@@ -1,0 +1,3 @@
+[submodule "consuming-an-API-with-Angular"]
+	path = consuming-an-API-with-Angular
+	url = https://github.com/CristianH98/consuming-an-API-with-Angular.git
